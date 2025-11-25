@@ -13,6 +13,6 @@ jobs:
 
     steps:
       - name: Run auto assign
-        uses: kentaro-m/auto-assign-action@v2.1.0
+        uses: kentaro-m/auto-assign-action@v2.0.0
         with:
           configuration-path: .github/auto_assign_config.yml
