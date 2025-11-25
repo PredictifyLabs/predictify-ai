@@ -1,0 +1,10 @@
+addReviewers: true
+addAssignees: false
+
+reviewers:
+  - jesuviloria
+  - wilffren
+
+numberOfReviewers: 2
+
+skipDraft: true

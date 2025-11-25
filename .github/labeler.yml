@@ -1,0 +1,22 @@
+python:
+  - '**/*.py'
+
+documentation:
+  - '**/*.md'
+  - docs/**
+
+tests:
+  - '**/tests/**'
+
+data:
+  - data/**
+  - datasets/**
+
+ml-model:
+  - models/**
+  - training/**
+  - inference/**
+
+infra:
+  - .github/**
+  - deploy/**

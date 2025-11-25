@@ -1,0 +1,55 @@
+- name: bug
+  color: d73a4a
+  description: Reporte de un error en el sistema
+
+- name: enhancement
+  color: a2eeef
+  description: Solicitud de mejora o nueva característica
+
+- name: documentation
+  color: 0075ca
+  description: Cambios o mejoras relacionadas con documentación
+
+- name: tests
+  color: 5319e7
+  description: Tareas relacionadas con pruebas
+
+- name: refactor
+  color: fbca04
+  description: Modificación de código sin cambiar el comportamiento
+
+- name: ml-model
+  color: 00b894
+  description: Cambios relacionados con modelos de Machine Learning
+
+- name: data
+  color: 0984e3
+  description: Cambios relacionados con datos, datasets o procesamiento
+
+- name: research
+  color: 6c5ce7
+  description: Tareas exploratorias o experimentales
+
+- name: python
+  color: 3572A5
+  description: Cambios en código Python o librerías asociadas
+
+- name: infra
+  color: 1abc9c
+  description: Cambios en infraestructura, CI/CD, automatizaciones
+
+- name: good-first-issue
+  color: 7057ff
+  description: Issue ideal para nuevos contribuidores
+
+- name: help-wanted
+  color: 008672
+  description: Se necesita ayuda externa
+
+- name: priority-high
+  color: ff0000
+  description: Debe resolverse lo antes posible
+
+- name: wontfix
+  color: ffffff
+  description: No se resolverá o no aplica
